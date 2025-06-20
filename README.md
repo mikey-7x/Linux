@@ -1,6 +1,9 @@
 # Linux
+
+https://github.com/mikey-7x/Linux/blob/main/Linux%20by%20mikey-7x.png
+
 <p align="center">
-  <img src="./assets/linux-banner.png" alt="Linux by mikey-7x" style="max-width:100%;">
+  <img src="https://github.com/mikey-7x/Linux/blob/main/Linux%20by%20mikey-7x.png" alt="Linux by mikey-7x" style="max-width:100%;">
 </p>
 
 # 🐧 Linux – The Future of Open Computing
