@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://github.com/mikey-7x/Linux/blob/main/Linux%20by%20mikey-7x.png" alt="Linux by mikey-7x" style="max-width:100%;">
-</p>
-
 # 🐧 Linux – The Future of Open Computing
 
 Welcome to the **Linux** repository! This project is a detailed, open-source knowledge base dedicated to **Linux, its future scope, unique strengths, and evolving ecosystem**. Whether you're a beginner, hacker, developer, or just curious, this repo is your gateway to understanding the world of Linux.
+
+
+<p align="center">
+  <img src="https://github.com/mikey-7x/Linux/blob/main/Linux%20by%20mikey-7x.png" alt="Linux by mikey-7x" style="max-width:100%;">
+</p>
 
 ---
 
