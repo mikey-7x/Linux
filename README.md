@@ -1,6 +1,6 @@
 # Linux
 <p align="center">
-  <img src="./assets/linux-banner.png" alt="Linux Banner" style="max-width:100%;">
+  <img src="./assets/linux-banner.png" alt="Linux by mikey-7x" style="max-width:100%;">
 </p>
 
 # 🐧 Linux – The Future of Open Computing
