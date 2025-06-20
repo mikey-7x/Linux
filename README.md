@@ -34,8 +34,9 @@ Welcome to the **Linux** repository! This project is a detailed, open-source kno
 2. [🧠 Future Scope of Linux](#-future-scope-of-linux)
 3. [🌈 Unique Qualities of Linux](#-unique-qualities-of-linux)
 4. [🧭 Types of Linux Distributions](#-types-of-linux-distributions)
-5. [🌍 Linux for Every Platform](#-linux-for-every-platform)
-6. [🛠 Contributions Welcome](#-contributions-welcome)
+5. [🌍 Linux for Every Platform](#-linux-for-every-platform)  
+6. [🪽 About Linux](#-about-linux)
+7. [🛠 Contributions Welcome](#-contributions-welcome)
 
 ---
 
@@ -136,22 +137,9 @@ Linux distros are tailored to different users. Here's a categorized list:
 - 🧠 Raspberry Pi & Embedded Devices
 - 🚗 Cars (Android Automotive, Tesla OS base)
 
+
 ---
-
-## 🛠 Contributions Welcome
-
-Have a Linux tip, guide, or resource? PRs are welcome!
-
-```bash
-git clone https://github.com/your-username/Linux
-
-
-
-
-
-
-
-
+## 🪽 About Linux
 
 # 🎮 SteamOS – The Future of Linux Gaming
 
@@ -222,3 +210,11 @@ git clone https://github.com/your-username/Linux
 - 🖥️ For SteamOS 3.x experience on regular PCs, try [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) – a community-made replica of Steam Deck’s OS.
 
 ---
+
+## 🛠 Contributions Welcome
+
+Have a Linux tip, guide, or resource? PRs are welcome!
+
+```bash
+https://github.com/mikey-7x?tab=repositories
+```
