@@ -37,6 +37,8 @@ Welcome to the **Linux** repository! This project is a detailed, open-source kno
 5. [🌍 Linux for Every Platform](#-linux-for-every-platform)  
 6. [🪽 About Linux](#-about-linux)
 7. [🛠 Contributions Welcome](#-contributions-welcome)
+8.[⚖️ Disclaimer & Copyright](#-disclaimer--copyright)
+9.[🧾 Copyright](#-Copyright)
 
 ---
 
@@ -215,6 +217,27 @@ Linux distros are tailored to different users. Here's a categorized list:
 
 Have a Linux tip, guide, or resource? PRs are welcome!
 
-```bash
 https://github.com/mikey-7x?tab=repositories
-```
+
+---
+
+## ⚖️ Disclaimer & Copyright
+
+> **Note:** This repository is created by [mikey-7x](https://github.com/mikey-7x) for **educational and informational purposes only**.
+
+- I am **not the creator** or owner of the Linux kernel or any official Linux distribution.
+- All rights, trademarks, and logos related to **Linux** are owned by their respective creators and organizations (e.g., **Linus Torvalds**, **The Linux Foundation**, **Debian**, **Canonical**, **Red Hat**, etc.).
+- This repository only provides **unique documentation**, insights, and curated knowledge about:
+  - The **future scope of Linux**
+  - Features and strengths of Linux
+  - Linux distributions and their use cases
+  - The **open-source movement** and community projects
+- No claims are made about **creating** or **modifying** the Linux operating system or any of its official tools.
+
+---
+
+### 🧾 Copyright
+
+Content in this repository (including custom images and markdown files) is © 2025 by mikey-7x unless otherwise stated.
+
+Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
