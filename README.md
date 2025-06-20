@@ -37,9 +37,7 @@ Welcome to the **Linux** repository! This project is a detailed, open-source kno
 5. [🌍 Linux for Every Platform](#-linux-for-every-platform)  
 6. [🪽 About Linux](#-about-linux)
 7. [🛠 Contributions Welcome](#-contributions-welcome)
-   
 8.[⚖️ Disclaimer & Copyright](#-disclaimer--copyright)
-
 9.[🧾 Copyright](#-Copyright)
 
 ---
