@@ -241,3 +241,6 @@ https://github.com/mikey-7x?tab=repositories
 Content in this repository (including custom images and markdown files) is © 2025 by mikey-7x unless otherwise stated.
 
 Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+
+[other repository](https://github.com/mikey-7x?tab=repositories)
